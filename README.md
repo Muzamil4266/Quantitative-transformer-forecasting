@@ -295,3 +295,14 @@ Big neural network models do not extract predictive alpha if the data is poorly 
 Fixing the window scaling mechanics was what allowed the Multi-Head Attention layer to start identifying meaningful pattern shapes.
 
 In highly efficient financial markets, achieving a consistent, out-of-sample directional edge between 53% and 55% represents an exceptional foundation for risk-mitigated algorithmic exploitation.
+
+## 📈 Training Progress
+
+![Training Progress](Training-progress.png)
+
+---
+
+## 📊 Evaluation Report
+
+![Evaluation Report](Evaluation-report.png)
+
