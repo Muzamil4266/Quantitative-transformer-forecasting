@@ -181,7 +181,7 @@ Ensure your local development environment has Python 3.8+ installed along with n
 
 Clone the repository locally:
 
-git clone https://github.com/YOUR_USERNAME/quantitative-transformer-forecasting.git
+git clone https://github.com/Muzamil4266/quantitative-transformer-forecasting.git
 
 cd quantitative-transformer-forecasting
 
